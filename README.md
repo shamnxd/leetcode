@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
 |  |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
