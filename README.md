@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [3136-valid-word](https://github.com/shamnxd/leetcode/tree/master/3136-valid-word) |
 <!---LeetCode Topics End-->
