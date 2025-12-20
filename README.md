@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
 | [1732-find-the-highest-altitude](https://github.com/shamnxd/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamnxd/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shamnxd/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
@@ -21,6 +22,7 @@
 | [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamnxd/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shamnxd/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
