@@ -24,6 +24,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamnxd/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/shamnxd/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shamnxd/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Enumeration
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [3136-valid-word](https://github.com/shamnxd/leetcode/tree/master/3136-valid-word) |
+| [3280-convert-date-to-binary](https://github.com/shamnxd/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
