@@ -9,6 +9,7 @@
 | [1732-find-the-highest-altitude](https://github.com/shamnxd/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shamnxd/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamnxd/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/shamnxd/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
 ## Math
@@ -28,6 +30,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shamnxd/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamnxd/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/shamnxd/leetcode/tree/master/3280-convert-date-to-binary) |
@@ -79,4 +82,5 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
