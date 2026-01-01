@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shamnxd/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shamnxd/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -48,6 +49,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shamnxd/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shamnxd/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shamnxd/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
