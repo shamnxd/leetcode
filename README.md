@@ -10,6 +10,7 @@
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/shamnxd/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2574-left-and-right-sum-differences](https://github.com/shamnxd/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shamnxd/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3136-valid-word](https://github.com/shamnxd/leetcode/tree/master/3136-valid-word) |
 | [3280-convert-date-to-binary](https://github.com/shamnxd/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
