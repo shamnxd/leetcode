@@ -47,6 +47,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shamnxd/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/shamnxd/leetcode/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/shamnxd/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Enumeration
 |  |
 | ------- |
