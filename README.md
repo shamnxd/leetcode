@@ -38,6 +38,7 @@
 | [0002-add-two-numbers](https://github.com/shamnxd/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shamnxd/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/shamnxd/leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shamnxd/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
@@ -120,4 +121,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/shamnxd/leetcode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
