@@ -24,6 +24,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shamnxd/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/shamnxd/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Hash Table
 |  |
 | ------- |
