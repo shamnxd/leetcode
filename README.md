@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shamnxd/leetcode/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/shamnxd/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/shamnxd/leetcode/tree/master/1323-maximum-69-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shamnxd/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
