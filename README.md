@@ -47,6 +47,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shamnxd/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shamnxd/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/shamnxd/leetcode/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shamnxd/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
