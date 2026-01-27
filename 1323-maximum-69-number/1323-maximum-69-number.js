@@ -3,14 +3,14 @@
  * @return {number}
  */
 var maximum69Number  = function(num) {
-  let arr = num.toString().split('');
-    
-    for (let i = 0; i < arr.length; i++) {
-        if (arr[i] === '6') {
-            arr[i] = '9';
-            break;
+        let digits = num.toString().split("");
+
+    for (let i = 0; i < digits.length; i++) {
+        if (digits[i] === '6') {
+            digits[i] = '9';
+            break; // change only one digit
         }
     }
-    
-    return Number(arr.join(''));  
+
+    return Number(digits.join(""));
 };
