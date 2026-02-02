@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shamnxd/leetcode/tree/master/0058-length-of-last-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamnxd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
