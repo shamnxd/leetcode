@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -140,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
 |  |
