@@ -28,6 +28,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/shamnxd/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shamnxd/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/shamnxd/leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shamnxd/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -74,6 +76,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Recursion
 |  |
 | ------- |
