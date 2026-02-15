@@ -37,6 +37,7 @@
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shamnxd/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -92,6 +94,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamnxd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
 | [3136-valid-word](https://github.com/shamnxd/leetcode/tree/master/3136-valid-word) |
