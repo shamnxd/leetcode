@@ -53,6 +53,7 @@
 | [0002-add-two-numbers](https://github.com/shamnxd/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shamnxd/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shamnxd/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shamnxd/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/shamnxd/leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/shamnxd/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamnxd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -131,6 +133,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shamnxd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
@@ -141,6 +144,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shamnxd/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
