@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -161,6 +162,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
 ## String Matching
 |  |
 | ------- |
