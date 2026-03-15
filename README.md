@@ -74,6 +74,7 @@
 | [1323-maximum-69-number](https://github.com/shamnxd/leetcode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shamnxd/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shamnxd/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/shamnxd/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shamnxd/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2485-find-the-pivot-integer](https://github.com/shamnxd/leetcode/tree/master/2485-find-the-pivot-integer) |
