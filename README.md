@@ -48,6 +48,7 @@
 | [0202-happy-number](https://github.com/shamnxd/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shamnxd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/shamnxd/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -98,6 +99,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -115,6 +117,7 @@
 | [0058-length-of-last-word](https://github.com/shamnxd/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/shamnxd/leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
