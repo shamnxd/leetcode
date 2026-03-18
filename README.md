@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/shamnxd/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
 | [0941-valid-mountain-array](https://github.com/shamnxd/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -50,6 +51,7 @@
 | [0290-word-pattern](https://github.com/shamnxd/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
