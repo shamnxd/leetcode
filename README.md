@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/shamnxd/leetcode/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
@@ -211,6 +212,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shamnxd/leetcode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/shamnxd/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/shamnxd/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shamnxd/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
