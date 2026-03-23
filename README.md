@@ -25,6 +25,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/shamnxd/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shamnxd/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shamnxd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shamnxd/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/shamnxd/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -267,4 +269,8 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shamnxd/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
