@@ -29,6 +29,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shamnxd/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/shamnxd/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -60,6 +61,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shamnxd/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -134,6 +136,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/shamnxd/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
+| [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3136-valid-word](https://github.com/shamnxd/leetcode/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shamnxd/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -166,6 +169,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shamnxd/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shamnxd/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/shamnxd/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
