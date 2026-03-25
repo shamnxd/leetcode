@@ -62,6 +62,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/shamnxd/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shamnxd/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -113,6 +114,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/shamnxd/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/shamnxd/leetcode/tree/master/3583-count-special-triplets) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shamnxd/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -137,6 +139,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/shamnxd/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3136-valid-word](https://github.com/shamnxd/leetcode/tree/master/3136-valid-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/shamnxd/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
