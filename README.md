@@ -12,6 +12,7 @@
 | [0219-contains-duplicate-ii](https://github.com/shamnxd/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
+| [0739-daily-temperatures](https://github.com/shamnxd/leetcode/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/shamnxd/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -268,6 +269,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shamnxd/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shamnxd/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shamnxd/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/shamnxd/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/shamnxd/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shamnxd/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Game Theory
