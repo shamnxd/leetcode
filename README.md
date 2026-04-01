@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/shamnxd/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
 | [0941-valid-mountain-array](https://github.com/shamnxd/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
@@ -59,6 +60,7 @@
 | [0290-word-pattern](https://github.com/shamnxd/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -264,6 +266,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shamnxd/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/shamnxd/leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
@@ -300,6 +303,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Game Theory
 |  |
