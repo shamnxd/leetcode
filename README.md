@@ -16,6 +16,7 @@
 | [0739-daily-temperatures](https://github.com/shamnxd/leetcode/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/shamnxd/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
+| [1313-decompress-run-length-encoded-list](https://github.com/shamnxd/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shamnxd/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
