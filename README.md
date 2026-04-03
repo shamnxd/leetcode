@@ -223,6 +223,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shamnxd/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shamnxd/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/shamnxd/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/shamnxd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shamnxd/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shamnxd/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -268,6 +269,7 @@
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shamnxd/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
@@ -280,16 +282,19 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
