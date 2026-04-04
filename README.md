@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/shamnxd/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/shamnxd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
@@ -178,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shamnxd/leetcode/tree/master/0088-merge-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shamnxd/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shamnxd/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shamnxd/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/shamnxd/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/shamnxd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shamnxd/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shamnxd/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shamnxd/leetcode/tree/master/0234-palindrome-linked-list) |
