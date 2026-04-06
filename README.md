@@ -31,6 +31,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamnxd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/shamnxd/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/shamnxd/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shamnxd/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shamnxd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -100,6 +101,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shamnxd/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shamnxd/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shamnxd/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shamnxd/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2485-find-the-pivot-integer](https://github.com/shamnxd/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/shamnxd/leetcode/tree/master/1534-count-good-triplets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/shamnxd/leetcode/tree/master/1925-count-square-sum-triples) |
 ## Counting
 |  |
@@ -218,6 +221,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shamnxd/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shamnxd/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shamnxd/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
@@ -338,4 +342,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shamnxd/leetcode/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
