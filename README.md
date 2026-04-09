@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shamnxd/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/shamnxd/leetcode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/shamnxd/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shamnxd/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/shamnxd/leetcode/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shamnxd/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/shamnxd/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -350,6 +352,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shamnxd/leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shamnxd/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
