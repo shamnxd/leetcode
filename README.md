@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/shamnxd/leetcode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/shamnxd/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shamnxd/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shamnxd/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shamnxd/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shamnxd/leetcode/tree/master/0198-house-robber) |
@@ -298,6 +299,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
@@ -311,12 +313,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -359,4 +363,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shamnxd/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
