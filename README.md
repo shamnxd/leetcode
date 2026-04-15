@@ -299,6 +299,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/shamnxd/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/shamnxd/leetcode/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/shamnxd/leetcode/tree/master/0200-number-of-islands) |
@@ -313,6 +315,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/shamnxd/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shamnxd/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamnxd/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -348,6 +351,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/shamnxd/leetcode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/shamnxd/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
