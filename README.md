@@ -42,6 +42,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/shamnxd/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shamnxd/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shamnxd/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shamnxd/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -79,6 +80,7 @@
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/shamnxd/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/shamnxd/leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shamnxd/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamnxd/leetcode/tree/master/2965-find-missing-and-repeated-values) |
