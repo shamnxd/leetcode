@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shamnxd/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/shamnxd/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/shamnxd/leetcode/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/shamnxd/leetcode/tree/master/0941-valid-mountain-array) |
 | [1046-last-stone-weight](https://github.com/shamnxd/leetcode/tree/master/1046-last-stone-weight) |
@@ -191,6 +192,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/shamnxd/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shamnxd/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shamnxd/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
