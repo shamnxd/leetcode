@@ -141,6 +141,7 @@
 | [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1603-design-parking-system](https://github.com/shamnxd/leetcode/tree/master/1603-design-parking-system) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/shamnxd/leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shamnxd/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
+| [1603-design-parking-system](https://github.com/shamnxd/leetcode/tree/master/1603-design-parking-system) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shamnxd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -387,4 +389,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shamnxd/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shamnxd/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
