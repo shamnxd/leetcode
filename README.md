@@ -77,6 +77,7 @@
 | [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shamnxd/leetcode/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shamnxd/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0575-distribute-candies](https://github.com/shamnxd/leetcode/tree/master/0575-distribute-candies) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shamnxd/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -165,6 +166,7 @@
 | [0290-word-pattern](https://github.com/shamnxd/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shamnxd/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shamnxd/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/shamnxd/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shamnxd/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shamnxd/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1528-shuffle-string](https://github.com/shamnxd/leetcode/tree/master/1528-shuffle-string) |
@@ -396,5 +398,10 @@
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/shamnxd/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1603-design-parking-system](https://github.com/shamnxd/leetcode/tree/master/1603-design-parking-system) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/shamnxd/leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
