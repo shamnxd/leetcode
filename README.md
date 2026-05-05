@@ -38,6 +38,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shamnxd/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shamnxd/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shamnxd/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shamnxd/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shamnxd/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shamnxd/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/shamnxd/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -174,6 +175,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamnxd/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shamnxd/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/shamnxd/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shamnxd/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shamnxd/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2325-decode-the-message](https://github.com/shamnxd/leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/shamnxd/leetcode/tree/master/2418-sort-the-people) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/shamnxd/leetcode/tree/master/1603-design-parking-system) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shamnxd/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shamnxd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
