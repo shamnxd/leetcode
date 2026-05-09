@@ -234,6 +234,7 @@
 | [0067-add-binary](https://github.com/shamnxd/leetcode/tree/master/0067-add-binary) |
 | [1603-design-parking-system](https://github.com/shamnxd/leetcode/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shamnxd/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shamnxd/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/shamnxd/leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/shamnxd/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shamnxd/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -267,6 +268,7 @@
 | [0206-reverse-linked-list](https://github.com/shamnxd/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shamnxd/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shamnxd/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/shamnxd/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
