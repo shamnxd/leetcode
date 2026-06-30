@@ -10,25 +10,23 @@
  * @param {_Node} node
  * @return {_Node}
  */
-var cloneGraph = function (node) {
-    if (!node) return null;
-    let queue = [node];
+var cloneGraph = function(node) {
+    if(!node) return null;
 
-    let map = new Map();
-    map.set(node, new _Node(node.val));
+    const map = new Map();
 
-    while (queue.length > 0) {
-        let current = queue.shift();
+    function dfs(curr) {
+        if(map.has(curr)) return map.get(curr);
 
-        for (let neighbor of current.neighbors) {
-            if (!map.has(neighbor)) {
-                map.set(neighbor, new _Node(neighbor.val));
-                queue.push(neighbor);
-            }
+        let clone = new _Node(curr.val);
+        map.set(curr, clone);
 
-            map.get(current).neighbors.push(map.get(neighbor))
+        for(let ng of curr.neighbors){
+            clone.neighbors.push(dfs(ng))
         }
+
+        return clone
     }
 
-    return map.get(node)
+    return dfs(node)
 };
